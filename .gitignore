@@ -1,0 +1,5 @@
+./data/*
+./data/cifar-10-batches-py/*
+./dataset/*
+*.pyc
+.gitignore_
